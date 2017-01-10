@@ -18,6 +18,12 @@
 16. Something about merging sorted list? 
 17. I was asked to implement a cache for storing visited webpages, including some sort of deletion algorithm if the maximum sized was achieved.
 
+Design an email sender that can send 100,000,000 emails. You have 5 machines how could you do it efficiently.
+design api for cache management
+different between array and heap
+
+
+
 
 MyApproach:
 
@@ -27,3 +33,7 @@ A. User Interface that will be interacting with the services.
     B. The Services.
     C. Database configuration there.    
     You are to write a spell checker. Discuss the API, Data Structures and Algorithms.
+
+
+
+How to design rate access controls in a public API, and enforce across server nodes?

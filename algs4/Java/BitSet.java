@@ -1,0 +1,15 @@
+BitSet
+- void and(BitSet bitset)
+- void andNot(BitSet bitset)
+- int cardinality()
+- void clear ()
+- void clear (int index)
+- Object clone( )
+- boolean equals(Objects bitset)
+- void flip (int index)
+- boolean get(int index)
+- BitSet get (int startIndex, int endIndex)
+- int hashCode ()
+- boolean intersects(BitSet bitSet)
+- boolean isEmpty( )
+ 
